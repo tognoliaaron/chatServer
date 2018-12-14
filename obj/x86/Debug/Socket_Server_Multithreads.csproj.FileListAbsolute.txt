@@ -1,0 +1,38 @@
+E:\5A-TEP\Materiale_Socket\socket_da_adriano\Socket_Server_Multithreads\bin\Debug\Socket_Server_Multithreads.exe
+E:\5A-TEP\Materiale_Socket\socket_da_adriano\Socket_Server_Multithreads\bin\Debug\Socket_Server_Multithreads.pdb
+E:\5A-TEP\Materiale_Socket\socket_da_adriano\Socket_Server_Multithreads\obj\x86\Debug\Socket_Server_Multithreads.exe
+E:\5A-TEP\Materiale_Socket\socket_da_adriano\Socket_Server_Multithreads\obj\x86\Debug\Socket_Server_Multithreads.pdb
+C:\Users\w7\Desktop\socket\Socket_Server_Multithreads\obj\x86\Debug\Socket_Server_Multithreads.exe
+C:\Users\w7\Desktop\socket\Socket_Server_Multithreads\obj\x86\Debug\Socket_Server_Multithreads.pdb
+C:\Users\w7\Desktop\socket\Socket_Server_Multithreads\bin\Debug\Socket_Server_Multithreads.exe
+C:\Users\w7\Desktop\socket\Socket_Server_Multithreads\bin\Debug\Socket_Server_Multithreads.pdb
+C:\Users\w7\Desktop\socket\Socket_Server_Multithreads\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\5IATEP\Sockets\Socket_Server_Multithreads\obj\x86\Debug\Socket_Server_Multithreads.exe
+I:\5IATEP\Sockets\Socket_Server_Multithreads\obj\x86\Debug\Socket_Server_Multithreads.pdb
+C:\Users\tognoli.14161\Desktop\ServerChat\obj\x86\Debug\Socket_Server_Multithreads.exe
+C:\Users\tognoli.14161\Desktop\ServerChat\obj\x86\Debug\Socket_Server_Multithreads.pdb
+C:\Users\tognoli.14161\Desktop\ServerChat\bin\Debug\Socket_Server_Multithreads.exe
+C:\Users\tognoli.14161\Desktop\ServerChat\bin\Debug\Socket_Server_Multithreads.pdb
+C:\Users\tognoli.14161\Desktop\ServerChat\obj\x86\Debug\Socket_Server_Multithreads.csprojResolveAssemblyReference.cache
+C:\Users\tognoli.14161\Desktop\ServerChatProtocolloScuola\ServerChat\obj\x86\Debug\Socket_Server_Multithreads.exe
+C:\Users\tognoli.14161\Desktop\ServerChatProtocolloScuola\ServerChat\obj\x86\Debug\Socket_Server_Multithreads.pdb
+C:\Users\tognoli.14161\Desktop\ServerChatProtocolloScuola\ServerChat\obj\x86\Debug\Socket_Server_Multithreads.csprojResolveAssemblyReference.cache
+C:\Users\tognoli.14161\Desktop\ServerChatProtocolloScuola\ServerChat\bin\Debug\Socket_Server_Multithreads.exe
+C:\Users\tognoli.14161\Desktop\ServerChatProtocolloScuola\ServerChat\bin\Debug\Socket_Server_Multithreads.pdb
+E:\Utente\Desktop\Aaron e Audrey\AARON\chiavetta superiori\Quinta\TEP\Sockets\ServerChatProtocolloScuola\ServerChat\obj\x86\Debug\Socket_Server_Multithreads.csprojResolveAssemblyReference.cache
+E:\Utente\Desktop\Aaron e Audrey\AARON\chiavetta superiori\Quinta\TEP\Sockets\ServerChatProtocolloScuola\ServerChat\obj\x86\Debug\Socket_Server_Multithreads.csproj.CoreCompileInputs.cache
+E:\Utente\Desktop\Aaron e Audrey\AARON\chiavetta superiori\Quinta\TEP\Sockets\ServerChatProtocolloScuola\ServerChat\obj\x86\Debug\Socket_Server_Multithreads.exe
+E:\Utente\Desktop\Aaron e Audrey\AARON\chiavetta superiori\Quinta\TEP\Sockets\ServerChatProtocolloScuola\ServerChat\obj\x86\Debug\Socket_Server_Multithreads.pdb
+E:\Utente\Desktop\Aaron e Audrey\AARON\chiavetta superiori\Quinta\TEP\Sockets\ServerChatProtocolloScuola\ServerChat\bin\Debug\Socket_Server_Multithreads.exe
+E:\Utente\Desktop\Aaron e Audrey\AARON\chiavetta superiori\Quinta\TEP\Sockets\ServerChatProtocolloScuola\ServerChat\bin\Debug\Socket_Server_Multithreads.pdb
+C:\Users\tognoli.14161\Desktop\ServerChatProtocolloScuola\ServerChatScuola\obj\x86\Debug\Socket_Server_Multithreads.exe
+C:\Users\tognoli.14161\Desktop\ServerChatProtocolloScuola\ServerChatScuola\obj\x86\Debug\Socket_Server_Multithreads.pdb
+C:\Users\tognoli.14161\Desktop\ServerChatProtocolloScuola\ServerChatScuola\obj\x86\Debug\Socket_Server_Multithreads.csprojResolveAssemblyReference.cache
+C:\Users\tognoli.14161\Desktop\ServerChatProtocolloScuola\ServerChatScuola\bin\Debug\Socket_Server_Multithreads.exe
+C:\Users\tognoli.14161\Desktop\ServerChatProtocolloScuola\ServerChatScuola\bin\Debug\Socket_Server_Multithreads.pdb
+E:\Utente\Desktop\Aaron e Audrey\AARON\chiavetta superiori\Quinta\TEP\Sockets\ServerChatProtocolloScuola\ServerChatScuola\bin\Debug\Socket_Server_Multithreads.exe
+E:\Utente\Desktop\Aaron e Audrey\AARON\chiavetta superiori\Quinta\TEP\Sockets\ServerChatProtocolloScuola\ServerChatScuola\bin\Debug\Socket_Server_Multithreads.pdb
+E:\Utente\Desktop\Aaron e Audrey\AARON\chiavetta superiori\Quinta\TEP\Sockets\ServerChatProtocolloScuola\ServerChatScuola\obj\x86\Debug\Socket_Server_Multithreads.csprojResolveAssemblyReference.cache
+E:\Utente\Desktop\Aaron e Audrey\AARON\chiavetta superiori\Quinta\TEP\Sockets\ServerChatProtocolloScuola\ServerChatScuola\obj\x86\Debug\Socket_Server_Multithreads.csproj.CoreCompileInputs.cache
+E:\Utente\Desktop\Aaron e Audrey\AARON\chiavetta superiori\Quinta\TEP\Sockets\ServerChatProtocolloScuola\ServerChatScuola\obj\x86\Debug\Socket_Server_Multithreads.exe
+E:\Utente\Desktop\Aaron e Audrey\AARON\chiavetta superiori\Quinta\TEP\Sockets\ServerChatProtocolloScuola\ServerChatScuola\obj\x86\Debug\Socket_Server_Multithreads.pdb
